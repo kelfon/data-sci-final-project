@@ -18,9 +18,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Local data files
-data/raw/*
-data/processed/*
+# # Local data files
+# data/raw/*
+# data/processed/*
 
 # Keep empty directories in Git
 !data/raw/.gitkeep
